@@ -1,1 +1,1 @@
-# churn-prediction-api
+# customer-churn-analytics
